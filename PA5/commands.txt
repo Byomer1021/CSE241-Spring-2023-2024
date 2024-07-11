@@ -1,0 +1,3 @@
+search "War" in "title"
+sort "year"
+search "Led Zeppelin" in "artist"

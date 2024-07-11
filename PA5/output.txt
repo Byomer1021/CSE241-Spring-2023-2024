@@ -1,0 +1,104 @@
+title|writer|year|genres
+Exception: duplicate entry
+World of Wonders|Expleasora Globe|2011|Trasdavel:Culture
+Exception: missing field
+Dreams of the Future|Visionary Dream|Science:Fiction
+Exception: missing field
+Dreams of the Future|Visionary Dream|Science:Fiction
+90 unique entries
+search "War" in "title"
+The Art of War |Strategist Battle|2000|History:Military
+The Warrior's Path|Samurai Blade|1974|History:Martial Arts
+sort "year"
+The Hidden Truth|Detective Solve|1934|Mystery:Science
+The Enchanted Voyage|Sailor Ocean|1935|Adventure:Fantasy
+The Adventure of Ideas|Thinker Spark|1936|Philosophy:History
+The Language of Science|Linguist Term|1937|Science:Communication
+The Quest for Knowledge|Scholar Seek|1938|Science:Discovery
+The Mind's Journey|Philosopher Thought|1939|Psychology:Philosophy
+The Cosmic Journey|Space Voyager|1940|Science Fiction:Adventure
+The Symphony of Nature|Conductor Harmony|1941|Music:Environment
+The Art of Exploration|Adventurer Path|1942|Travel:Discovery
+Voices from the Past|Historian Whisper|1943|History:Culture
+The Genetic Code|Scientist Sequence|1944|Biology:Genetics
+The Explorer's Map|Cartographer Globe|1945|Travel:Adventure
+The Path to Enlightenment|Monk Peace|1946|Philosophy:Religion
+Echoes of the Cosmos|Astrophysicist Echo|1947|Science:Space
+The Innovator's Handbook|Inventor Create|1948|Technology:Innovation
+The Wilderness Guide|Ranger Wild|1949|Adventure:Nature
+The Storyteller's Art|Narrator Tale|1950|Literature:Creativity
+The Frontier of Space|Astronaut Journey|1951|Science Fiction:Adventure
+Mysteries of the Mind|Psychologist Dream|1952|Psychology:Philosophy
+Journeys in Time|Time Traveler|1953|Science Fiction:History
+The Hidden Mechanism|Engineer Gear|1954|Technology:Engineering
+The Secret of Life|Biologist Cell|1955|Biology:Genetics
+The Digital Frontier|Coder Byte|1956|Technology:Future
+The Explorer's Handbook|Guide Path|1957|Travel:Adventure
+Mysteries of Space|Astronomer Cosmos|1958|Science Fiction:Science
+The Art of Healing|Doctor Cure|1959|Medicine:History
+Guardians of Nature|Protector Earth|1960|Nature:Conservation
+Treasures Beneath|Miner Dig|1961|Geology:Discovery
+The Quantum World|Physicist Particle|1962|Science:Technology
+A World Apart|Observer Distant|1963|Travel:Culture
+The Mind of a Genius|Thinker Brain|1964|Science:Biography
+Voyage to the Stars|Navigator Sky|1965|Science Fiction:Space
+Biomes of the World|Ecologist Green|1966|Science:Nature
+The Hidden Fortress|Knight Valor|1967|History:Medieval
+Legends of the Wild West|Cowboy Dust|1968|History:Adventure
+The Cosmic Dance|Dancer Star|1969|Science:Philosophy
+Ocean Mysteries|Diver Deep|1970|Adventure:Science
+The Innovator's Dilemma|Tech Pioneer|1971|Technology:Innovation
+Journeys Beyond|Traveler Far|1972|Travel:Adventure
+Guardians of the Forest|Protector Wood|1973|Nature:Conservation
+The Warrior's Path|Samurai Blade|1974|History:Martial Arts
+Lost Cities|Adventurer Quest|1975|History:Discovery
+The Enigma Machine|Code Master|1976|Technology:Cryptography
+Wonders of the Universe|Astronomer Star|1977|Science:Space
+Echoes of Eternity|Historian Time|1978|History:Philosophy
+The Painter's Muse|Artist Brush|1979|Art:Creativity
+Memoirs of the Future|Futurist Glimpse|1980|Science:Philosophy
+The Alchemist's Notebook|Alchemist Gold|1981|Mystery:Science
+Voyage to Mars|Astronaut Red|1982|Science Fiction:Space
+The Secret Garden|Gardener Green|1983|Nature:Horticulture
+Songs of the Earth|Maestro Melody|1984|Music:Environment
+The Edge of Reality|Quantum Quirk|1985|Science:Philosophy
+Guardians of the Galaxy|Star Defender|1986|Science Fiction:Adventure
+The Language of Machines|Tech Speak|1987|Technology:Programming
+The Heart of the Ocean|Captain Wave|1988|Adventure:Nature
+Echoes of the Ancients|Archaeologist Dig|1989|History:Archaeology
+Innovators and Inventions|Inventor Spark|1990|Technology:Innovation
+Whispers of the Forest|Druid Leaf|1991|Nature:Mythology
+The Lost World|Explorer Seek|1992|Adventure:Discovery
+The Astral Plane|Mystic Star|1994|Mysticism:Astrology
+The Codebreaker|Cipher Key|1995|Technology:Cryptography
+Legends of the Sky|Pilot Wing|1996|Adventure:Aviation
+The Culinary Journey|Chef Gourmet|1997|Cooking:Travel
+Parallel Universes|Quantum Leap|1998|Science:Fiction
+Treasures of the Earth|Geologist Rock|1999|Geology:Natural History
+The Art of War |Strategist Battle|2000|History:Military
+Ecosystem Explorers|Biologist Bloom|2001|Biology:Ecology
+The Philosopher's Quest|Sage Wisdom|2002|Philosophy:Adventure
+Tales of the Wild|Ranger Green|2003|Adventure:Wildlife
+The Digital Age|Pixel Screen:Net Work|2004|Technology:Culture
+Voices of the Past|Historian Echo|2005|History:Culture
+The Human Genome|Genie Sequence|2006|Biology:Genetics
+Architects of Tomorrow|Builder Stone:Sky High|2007|Architecture:Innovation
+The Symphony of Stars|Maestro Astro|2008|Music:Science
+Mystic Mountains|Hiker Peaks|2009|Adventure:Nature
+Journey Through Time|Tempus Chronos|2010|Science:History
+World of Wonders|Explora Globe|2011|Travel:Culture
+The Enchanted Forest|Fauna Flora|2012|Fantasy:Nature
+Code of the Future|Binary Byte:Hexa Dec|2013|Technology:Future
+Ocean's Whisper|Marina Blue|2014|Nature:Adventure
+The Mind's Eye|Dr. Psyche Mind|2015|Psychology:Philosophy
+Ancient Civilizations|Dr. Aria Stone|2016|History:Anthropology
+The Hidden Universe|Galileo Stellar:Neil Space|2017|Astronomy:Discovery
+Poetry of the Cosmos|Celeste Poetica|2018|Poetry:Science
+Galactic Adventures|Star Ranger|2019|Science Fiction:Adventure
+History's Secrets|Professor Time Turner|2020|History:Archaeology
+The Art of Code|Devon Byte:Lisa Logic|2021|Technology:Programming:Art
+Chronicles of the Unknown|Jane Smith|2022|Fantasy:Epic
+Mysteries of the Deep|Captain John Sea|2023|Adventure:Mystery
+The Quantum Enigma|Dr. Alice Newton|2024|Science:Fiction:Quantum
+Exception: command is wrong
+search "Led Zeppelin" in "artist"

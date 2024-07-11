@@ -1,0 +1,94 @@
+title:string:single|writer:string:multi|year:integer:single|genres:string:multi
+The Quantum Enigma|Dr. Alice Newton|2024|Science:Fiction:Quantum
+Mysteries of the Deep|Captain John Sea|2023|Adventure:Mystery
+Chronicles of the Unknown|Jane Smith|2022|Fantasy:Epic
+The Art of Code|Devon Byte:Lisa Logic|2021|Technology:Programming:Art
+History's Secrets|Professor Time Turner|2020|History:Archaeology
+Galactic Adventures|Star Ranger|2019|Science Fiction:Adventure
+Poetry of the Cosmos|Celeste Poetica|2018|Poetry:Science
+The Hidden Universe|Galileo Stellar:Neil Space|2017|Astronomy:Discovery
+Ancient Civilizations|Dr. Aria Stone|2016|History:Anthropology
+The Mind's Eye|Dr. Psyche Mind|2015|Psychology:Philosophy
+Ocean's Whisper|Marina Blue|2014|Nature:Adventure
+Code of the Future|Binary Byte:Hexa Dec|2013|Technology:Future
+The Enchanted Forest|Fauna Flora|2012|Fantasy:Nature
+World of Wonders|Explora Globe|2011|Travel:Culture
+World of Wonders|Expleasora Globe|2011|Trasdavel:Culture
+Journey Through Time|Tempus Chronos|2010|Science:History
+Mystic Mountains|Hiker Peaks|2009|Adventure:Nature
+The Symphony of Stars|Maestro Astro|2008|Music:Science
+Architects of Tomorrow|Builder Stone:Sky High|2007|Architecture:Innovation
+The Human Genome|Genie Sequence|2006|Biology:Genetics
+Voices of the Past|Historian Echo|2005|History:Culture
+The Digital Age|Pixel Screen:Net Work|2004|Technology:Culture
+Tales of the Wild|Ranger Green|2003|Adventure:Wildlife
+The Philosopher's Quest|Sage Wisdom|2002|Philosophy:Adventure
+Ecosystem Explorers|Biologist Bloom|2001|Biology:Ecology
+The Art of War |Strategist Battle|2000|History:Military
+Treasures of the Earth|Geologist Rock|1999|Geology:Natural History
+Parallel Universes|Quantum Leap|1998|Science:Fiction
+The Culinary Journey|Chef Gourmet|1997|Cooking:Travel
+Legends of the Sky|Pilot Wing|1996|Adventure:Aviation
+The Codebreaker|Cipher Key|1995|Technology:Cryptography
+The Astral Plane|Mystic Star|1994|Mysticism:Astrology
+Dreams of the Future|Visionary Dream|Science:Fiction
+Dreams of the Future|Visionary Dream|Science:Fiction
+The Lost World|Explorer Seek|1992|Adventure:Discovery
+Whispers of the Forest|Druid Leaf|1991|Nature:Mythology
+Innovators and Inventions|Inventor Spark|1990|Technology:Innovation
+Echoes of the Ancients|Archaeologist Dig|1989|History:Archaeology
+The Heart of the Ocean|Captain Wave|1988|Adventure:Nature
+The Language of Machines|Tech Speak|1987|Technology:Programming
+Guardians of the Galaxy|Star Defender|1986|Science Fiction:Adventure
+The Edge of Reality|Quantum Quirk|1985|Science:Philosophy
+Songs of the Earth|Maestro Melody|1984|Music:Environment
+The Secret Garden|Gardener Green|1983|Nature:Horticulture
+Voyage to Mars|Astronaut Red|1982|Science Fiction:Space
+The Alchemist's Notebook|Alchemist Gold|1981|Mystery:Science
+Memoirs of the Future|Futurist Glimpse|1980|Science:Philosophy
+The Painter's Muse|Artist Brush|1979|Art:Creativity
+Echoes of Eternity|Historian Time|1978|History:Philosophy
+Wonders of the Universe|Astronomer Star|1977|Science:Space
+The Enigma Machine|Code Master|1976|Technology:Cryptography
+Lost Cities|Adventurer Quest|1975|History:Discovery
+The Warrior's Path|Samurai Blade|1974|History:Martial Arts
+Guardians of the Forest|Protector Wood|1973|Nature:Conservation
+Journeys Beyond|Traveler Far|1972|Travel:Adventure
+The Innovator's Dilemma|Tech Pioneer|1971|Technology:Innovation
+Ocean Mysteries|Diver Deep|1970|Adventure:Science
+The Cosmic Dance|Dancer Star|1969|Science:Philosophy
+Legends of the Wild West|Cowboy Dust|1968|History:Adventure
+The Hidden Fortress|Knight Valor|1967|History:Medieval
+Biomes of the World|Ecologist Green|1966|Science:Nature
+Voyage to the Stars|Navigator Sky|1965|Science Fiction:Space
+The Mind of a Genius|Thinker Brain|1964|Science:Biography
+A World Apart|Observer Distant|1963|Travel:Culture
+The Quantum World|Physicist Particle|1962|Science:Technology
+Treasures Beneath|Miner Dig|1961|Geology:Discovery
+Guardians of Nature|Protector Earth|1960|Nature:Conservation
+The Art of Healing|Doctor Cure|1959|Medicine:History
+Mysteries of Space|Astronomer Cosmos|1958|Science Fiction:Science
+The Explorer's Handbook|Guide Path|1957|Travel:Adventure
+The Digital Frontier|Coder Byte|1956|Technology:Future
+The Secret of Life|Biologist Cell|1955|Biology:Genetics
+The Hidden Mechanism|Engineer Gear|1954|Technology:Engineering
+Journeys in Time|Time Traveler|1953|Science Fiction:History
+Mysteries of the Mind|Psychologist Dream|1952|Psychology:Philosophy
+The Frontier of Space|Astronaut Journey|1951|Science Fiction:Adventure
+The Storyteller's Art|Narrator Tale|1950|Literature:Creativity
+The Wilderness Guide|Ranger Wild|1949|Adventure:Nature
+The Innovator's Handbook|Inventor Create|1948|Technology:Innovation
+Echoes of the Cosmos|Astrophysicist Echo|1947|Science:Space
+The Path to Enlightenment|Monk Peace|1946|Philosophy:Religion
+The Explorer's Map|Cartographer Globe|1945|Travel:Adventure
+The Genetic Code|Scientist Sequence|1944|Biology:Genetics
+Voices from the Past|Historian Whisper|1943|History:Culture
+The Art of Exploration|Adventurer Path|1942|Travel:Discovery
+The Symphony of Nature|Conductor Harmony|1941|Music:Environment
+The Cosmic Journey|Space Voyager|1940|Science Fiction:Adventure
+The Mind's Journey|Philosopher Thought|1939|Psychology:Philosophy
+The Quest for Knowledge|Scholar Seek|1938|Science:Discovery
+The Language of Science|Linguist Term|1937|Science:Communication
+The Adventure of Ideas|Thinker Spark|1936|Philosophy:History
+The Enchanted Voyage|Sailor Ocean|1935|Adventure:Fantasy
+The Hidden Truth|Detective Solve|1934|Mystery:Science
